@@ -87,21 +87,21 @@ customer-behavior-analysis-python-sql-powerbi/
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## <a id="eda-analysis"></a>📊 Exploratory Data Analysis (EDA)
 
 The EDA phase focused on data cleaning and preparing the dataset for analysis.
 
-- Loaded the dataset using pandas and checked column names, data types, and structure  
-- Reviewed unique values and summary statistics to understand the data  
-- Identified missing values in the **review_rating** column  
-- Filled missing **review_rating** values using the median rating of the same product category  
-- Renamed all columns to **snake_case** for better consistency and readability  
-- Created an **age_group** column by grouping customer ages into ranges  
-- Created a **purchase_frequency_days** column based on purchase frequency data  
-- Checked the relationship between **discount_applied** and **promo_code_used** columns  
-- Removed **promo_code_used** after confirming it provided duplicate information  
-- Rechecked the data to ensure values and data types were correct after changes  
-- Prepared the cleaned dataset for further analysis and loaded the transformed data into **SQL Server**
+- **Data Loading:** Imported the dataset using pandas and reviewed structure, column names, and data types  
+- **Initial Review:** Checked unique values and summary statistics to understand the data  
+- **Missing Values:** Identified missing entries in the **review_rating** column  
+- **Missing Value Handling:** Filled missing **review_rating** values using the median rating of the same product category  
+- **Column Naming:** Renamed all columns to **snake_case** for consistency and readability  
+- **Age Group Creation:** Grouped customer ages into defined age ranges  
+- **Purchase Frequency Feature:** Created a **purchase_frequency_days** column from purchase data  
+- **Data Consistency Check:** Verified overlap between **discount_applied** and **promo_code_used**  
+- **Column Removal:** Dropped **promo_code_used** after confirming it was redundant  
+- **Data Validation:** Rechecked values and data types after transformations  
+- **Database Preparation:** Prepared the cleaned data and loaded it into **SQL Server** for analysis
 
 ---
 
