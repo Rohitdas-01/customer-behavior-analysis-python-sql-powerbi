@@ -1,1 +1,1 @@
-# customer-behavior-analysis-python-sql-powerbi
+# Customer Shopping Behavior Analysis
