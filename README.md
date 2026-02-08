@@ -12,7 +12,7 @@
 - [Dataset](#dataset)  
 - [Tools & Technologies](#tools--technologies)  
 - [Project Structure](#project-structure)   
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+- [Exploratory Data Analysis (EDA)](#eda-analysis)  
 - [Insights From SQL Analysis](#insights-from-sql-analysis)  
 - [Dashboard](#dashboard)  
 - [How to Run This Project](#how-to-run-this-project)  
