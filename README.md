@@ -144,20 +144,51 @@ Power BI dashboard shows:
 
 ## <a id="how-to-run-this-project"></a>▶️ How to Run This Project  
 
-### **1️⃣ Step 1 — Python (Jupyter Notebook)**  
-- Open the notebook in `/notebooks`  
-- Run EDA, clean data, create engineered features  
-- Export final cleaned dataset  
+### Step 1 — Clone the Repository**
+```bash
+git clone https://github.com/Rohitdas-01/customer-behavior-analysis-python-sql-powerbi.git
+```
+### Step 2 -Run Exploratory Data Analysis (Python)
 
-### **2️⃣ Step 2 — SQL Server**  
-- Import cleaned dataset into SQL Server  
-- Run analytical queries from `/sql` folder  
-- Extract customer segments, revenue summaries, and product insights  
+Open Jupyter Notebook
 
-### **3️⃣ Step 3 — Power BI Dashboard**  
-- Load SQL output tables  
-- Open `/dashboard/customer_behavior_dashboard.pbix`  
-- Explore interactive visuals  
+-> Navigate to the notebooks/ directory
+
+Open and run:
+
+-> eda_customer_behavior.ipynb
+
+This step includes:
+
+- Data loading and inspection
+
+- Data cleaning and missing value handling
+
+- Feature engineering (age groups, purchase frequency, etc.)
+
+- Export the final cleaned dataset for database ingestion
+  
+### Step - 3️ Load Data into SQL Server
+
+1. Import the cleaned dataset into SQL Server
+
+2. Open and execute SQL scripts from the sql/ folder:
+```bash
+sql/customer_behavior_queries.sql
+```
+This step generates:
+- Customer segmentation
+- Revenue and sales summaries
+- Product and subscription insights
+
+### Step 4 - Open Power BI Dashboard
+```bash
+dashboard/customer_behavior_dashboard.pbix
+```
+### Step 5 - Review Project Outputs
+- customer_behavior_report.pdf
+
+- images/dashboard.png
 
 ---
 
