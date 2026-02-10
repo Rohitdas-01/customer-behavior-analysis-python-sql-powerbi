@@ -205,11 +205,14 @@ Addressing this gap can unlock additional revenue and improve subscription adopt
 
 ## <a id="contact"></a>📞 Contact  
 
+**Rohit Das**
+
 **<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20px"> Email:**  
-rohit.41.das@gmail.com
+rohit.41.das@gmail.com  
 
 **<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px"> LinkedIn:**  
 https://www.linkedin.com/in/rohit-das-jsr/
+
 
 ---
 
