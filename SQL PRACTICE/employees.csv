@@ -1,0 +1,51 @@
+EmployeeID,FirstName,LastName,Department,JobTitle,HireDate,Salary,Bonus,City,IsActive,PerformanceScore
+1,Sarah,Davis,Marketing,Lead,2023-09-10,99886,8265,Dallas,0,3
+2,David,Brown,Finance,Executive,2020-11-05,109820,2769,San Francisco,1,2
+3,David,Smith,Sales,Senior Analyst,2018-04-30,73693,8396,San Francisco,0,3
+4,Karen,Williams,Sales,Engineer,2017-12-18,76551,19912,Dallas,1,5
+5,Robert,Johnson,Sales,Analyst,2022-11-28,118969,12233,New York,0,2
+6,Robert,Davis,Finance,Executive,2018-09-25,80920,3585,San Francisco,1,2
+7,Jane,Martinez,Sales,Senior Analyst,2019-02-09,82065,2995,San Francisco,0,5
+8,Jane,Jones,HR,Analyst,2022-07-30,84099,10571,Seattle,0,5
+9,James,Miller,IT,Analyst,2015-03-06,112563,4695,Dallas,0,3
+10,John,Jones,HR,Senior Analyst,2016-02-23,97251,10392,San Francisco,1,5
+11,Linda,Garcia,Finance,Manager,2020-11-16,115592,16948,Dallas,1,2
+12,Robert,Rodriguez,HR,Senior Analyst,2016-05-17,68419,19868,Dallas,0,1
+13,Sarah,Jones,Marketing,Manager,2016-07-17,78827,18198,Dallas,1,4
+14,Karen,Rodriguez,Marketing,Executive,2022-03-10,114163,18157,Dallas,1,4
+15,Robert,Smith,IT,Analyst,2019-02-05,111842,8776,San Francisco,1,3
+16,Emily,Davis,Finance,Analyst,2024-05-23,48748,15545,San Francisco,1,3
+17,Linda,Rodriguez,Sales,Analyst,2024-06-07,96005,15808,Chicago,1,2
+18,John,Jones,IT,Analyst,2024-06-20,71736,6737,San Francisco,0,5
+19,John,Smith,Finance,Executive,2019-10-26,95859,7791,San Francisco,0,3
+20,Emily,Davis,Marketing,Engineer,2016-02-05,110733,3930,New York,0,3
+21,Michael,Brown,Sales,Manager,2024-04-20,117082,3986,Dallas,1,4
+22,John,Davis,HR,Analyst,2016-05-03,46802,10155,New York,0,2
+23,Robert,Martinez,IT,Engineer,2019-06-23,47049,7423,San Francisco,1,3
+24,James,Rodriguez,Finance,Manager,2023-05-21,60151,3154,San Francisco,1,1
+25,John,Davis,Sales,Executive,2016-09-19,98351,17586,New York,1,5
+26,Jane,Johnson,Operations,Manager,2023-02-09,106135,19340,New York,0,4
+27,David,Brown,Finance,Analyst,2022-10-19,115271,13296,San Francisco,1,5
+28,Emily,Davis,Finance,Manager,2016-07-16,94377,17636,New York,1,1
+29,Michael,Brown,Finance,Analyst,2016-03-28,118744,12716,Seattle,1,4
+30,David,Davis,Marketing,Analyst,2019-11-04,45301,14468,Dallas,1,4
+31,David,Miller,IT,Manager,2015-07-10,71641,3816,Chicago,1,2
+32,Linda,Davis,HR,Executive,2018-09-08,63070,5009,Dallas,1,2
+33,Linda,Smith,IT,Manager,2017-02-23,99748,7801,Chicago,1,1
+34,Karen,Miller,IT,Engineer,2021-09-21,115316,4368,San Francisco,1,4
+35,Jane,Miller,Operations,Manager,2024-05-18,97921,18958,Seattle,1,2
+36,John,Brown,HR,Executive,2024-05-06,98006,17338,San Francisco,1,5
+37,David,Miller,Sales,Executive,2019-05-15,111412,6142,Dallas,1,4
+38,Jane,Martinez,Operations,Manager,2022-05-27,118847,19214,Dallas,1,2
+39,Karen,Jones,Operations,Analyst,2017-01-10,119740,3081,Chicago,0,2
+40,Emily,Rodriguez,Marketing,Lead,2018-01-24,48343,15500,Seattle,1,3
+41,Karen,Williams,Marketing,Executive,2023-08-14,106389,11435,Seattle,0,4
+42,Karen,Martinez,Marketing,Engineer,2016-03-28,107752,6452,Chicago,1,5
+43,Jane,Brown,HR,Senior Analyst,2023-09-07,54823,11207,Seattle,1,2
+44,Sarah,Davis,Sales,Senior Analyst,2016-05-11,56938,4427,New York,1,3
+45,David,Williams,IT,Analyst,2024-07-30,114449,19450,San Francisco,1,4
+46,Jane,Williams,HR,Manager,2019-06-19,72350,18281,Chicago,0,2
+47,James,Miller,Sales,Senior Analyst,2015-04-25,83513,13338,Seattle,0,1
+48,James,Brown,HR,Lead,2024-03-02,63888,4967,Dallas,1,4
+49,John,Miller,Operations,Lead,2017-09-04,89811,5440,Seattle,1,3
+50,John,Smith,Operations,Engineer,2017-05-22,91959,2728,Seattle,1,1
