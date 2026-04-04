@@ -110,10 +110,7 @@ The EDA phase focused on data cleaning and preparing the dataset for analysis.
 - **Revenue by Gender:** Male customers generate **higher revenue**  
 - **High-Spending Discount Users:** Identified customers who used discounts but still spent **above the average**  
 - **Top Products by Rating:** Extracted items with **highest mean review scores**  
-- **Shipping Type Impact:** Express shipping users spend **more on average**  
-- **Subscription Effect:**  
-  - Subscribers contribute **higher total revenue**  
-  - Higher average purchase value  
+- **Shipping Type Impact:** Express shipping users spend **more on average**   
 - **Discount-Dependent Items:** Identified **5 products** heavily reliant on discounts  
 - **Customer Segmentation:** Classified into **New**, **Returning**, and **Loyal** customers  
 - **Top 3 Items per Category:** Listed leading products across all categories  
@@ -129,7 +126,7 @@ The EDA phase focused on data cleaning and preparing the dataset for analysis.
 Power BI dashboard shows:
 
 - Total number of customers, average purchase amount, and average review rating  
-- Revenue comparison between **subscribers and non-subscribers**  
+- **Subscribed vs Non-Subscribed** Users (% Distribution) 
 - Revenue distribution across **product categories**  
 - Sales contribution by **gender**  
 - Revenue contribution by **age groups**  
